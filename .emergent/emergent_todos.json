@@ -13,22 +13,22 @@
   },
   {
     "content": "Phase 2: Get design guidelines from design_agent",
-    "status": "in_progress"
+    "status": "completed"
   },
   {
     "content": "Phase 2: Implement backend (sessions, messages, chat endpoint)",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "content": "Phase 2: Implement frontend (sidebar, chat panel, markdown, animations)",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "content": "Phase 2: Install dependencies (react-markdown, syntax highlighter, etc.)",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "content": "Phase 2: End-to-End testing with testing_agent_v3",
-    "status": "pending"
+    "status": "in_progress"
   }
 ]
