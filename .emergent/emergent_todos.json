@@ -1,0 +1,34 @@
+[
+  {
+    "content": "Phase 1: Get integration playbook for Emergent LLM key",
+    "status": "completed"
+  },
+  {
+    "content": "Phase 1: Create POC test script for LLM streaming + continuity",
+    "status": "completed"
+  },
+  {
+    "content": "Phase 1: Run POC and fix until passing",
+    "status": "completed"
+  },
+  {
+    "content": "Phase 2: Get design guidelines from design_agent",
+    "status": "in_progress"
+  },
+  {
+    "content": "Phase 2: Implement backend (sessions, messages, chat endpoint)",
+    "status": "pending"
+  },
+  {
+    "content": "Phase 2: Implement frontend (sidebar, chat panel, markdown, animations)",
+    "status": "pending"
+  },
+  {
+    "content": "Phase 2: Install dependencies (react-markdown, syntax highlighter, etc.)",
+    "status": "pending"
+  },
+  {
+    "content": "Phase 2: End-to-End testing with testing_agent_v3",
+    "status": "pending"
+  }
+]
